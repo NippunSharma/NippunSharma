@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋 I am Nippun Sharma.
 
-<!--
-**NippunSharma/NippunSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am in the 2nd year of B.Tech. Computer Science program at IIT Mandi.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on creating a [Chatbot](https://github.com/NippunSharma/ChatterBox)
+- 💻 Programming languages: Python, C++
+- 🌱 I’m currently learning template metaprogramming in C++.
+- 👯 I’m looking to collaborate on interesting Machine Learning and Data Science related projects.
+- 📫 How to reach me: inbox.nippun@gmail.com
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NippunSharma&show_icons=true&theme=radical">
+</div>
