@@ -1,9 +1,8 @@
 ### Hi 👋 I am Nippun Sharma.
 
-I am in the 3rd year of B.Tech. Computer Science program at IIT Mandi.
+I am in the 4th year of B.Tech. Computer Science program at IIT Mandi.
 
-- 🔭 I’m currently working on creating a [Chatbot](https://github.com/NippunSharma/ChatterBox)
-- 💻 Programming languages: Python, C++
+- 💻 Programming languages: Python, C++, C, TypeScript
 - 🌱 I’m currently learning template metaprogramming in C++.
 - 👯 I’m looking to collaborate on interesting Machine Learning and Data Science related projects.
 - 📫 How to reach me: inbox.nippun@gmail.com
